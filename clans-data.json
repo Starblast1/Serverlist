@@ -1,0 +1,124 @@
+{
+  "clans": {
+    "S2F": {
+      "tags": ["SᄅF̶ ", "[S2F]", "𐌔ᄅ𐌅", "SㄹF", "SᄅF"],
+      "color": "#09ff00",
+      "type": "regular"
+    },
+    "BT": {
+      "tags": ["ʚɞ", "ʚ"],
+      "color": "#2ecc71",
+      "type": "regular"
+    },
+    "V̶̶̶S̶▸": {
+      "tags": [" V̶̶̶S̶▸"],
+      "color": "#09ff00",
+      "type": "regular"
+    },
+    "☾": {
+      "tags": ["☾"],
+      "color": "#09ff00",
+      "type": "regular"
+    },
+    "PTP": {
+      "tags": ["PTP↝", "ᴘᴛᴘ", "P͜͡T͜͡P͜͡"],
+      "color": "#09ff00",
+      "type": "regular"
+    },
+    "YA": {
+      "tags": ["YΛ", "❮YΛ❯", "Ƴƛ"],
+      "color": "#27ae60",
+      "type": "regular"
+    }
+  },
+  "cheaterClans": {
+    "ɢᴏҒ": {
+      "tags": ["ɢᴏҒ", "GØF"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "7҉": {
+      "tags": ["7҉", " 7҉", "xyz"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "TDR": {
+      "tags": ["ƬDЯ↝", "ƬƊƦ↝", "TDR"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "GL": {
+      "tags": ["★₲Ⱡ➢"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "Star": {
+      "tags": ["✮", "♛"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "I̴N̴C": {
+      "tags": ["I̴N̴C"," I̴N̴C"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "₲ⱠⱤ ⇝": {
+      "tags": ["₲ⱠⱤ ⇝"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "ɆØ₮": {
+      "tags": ["ɆØ₮⇝"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "ᴾᴿᴼ": {
+      "tags": ["ᴾᴿᴼ"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "ȻꞨɆ": {
+      "tags": ["ȻꞨɆ"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "NUB": {
+      "tags": ["༄♕[NUB]♕༄", "[NUB]"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "OS": {
+      "tags": ["「ØS」", "[OS]"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "LOG": {
+      "tags": ["‹ℨ›", "⊰ℨ⊱", "⧼ɪɪɪ⧽", "ʟᴏɢ", "【ŁS】", "Ⅲ"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "FX": {
+      "tags": ["Ƒჯ"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "✯F℣➛": {
+      "tags": ["✯F℣➛"],
+      "color": "#ff0000",
+      "type": "cheater"
+    },
+    "LOS": {
+      "tags": ["LØS", "LØŞ ✧", "LØŞ✧"],
+      "color": "#ff0000",
+      "type": "cheater"
+    }
+  },
+  "alliance": {
+    "nicks": ["ƔƠƦƬЄҲ", "omega", "ᴍᴏᴅᴇƦᴀᴛᴏ", "Ahmed", "ɴʏᴀɴ","  ♡✧ᴠᴏƦᴛᴇX✧♡", "FIGHT OR DIE"],
+    "color": "#55efc4"
+  },
+  "individualCheaters": {
+    "nicks": ["Я †ɄꞨꞭȺꞤ","الله انا Ꞧ†ɄꞨⱠȺꞤ","₳​Ł​ɆӾⱫ","5H0T","​13utkuuu  INC.","MATADOR BUT ƑᲯ", "MATADOR", "ᴡꞮᴋᴛᴏƦ", "PROBOxyz", "spzxwa", "모 ₮ꞦⅠ₵₭7Ꭶ 모","ДРУГ","ДРУГᴿᵁ","MȺTȺDꝊR", "ꑭ HMXD ꑭ", "Ꞧ†ɄꞨꞭȺꞤ.", "ℜOͥᴍAͣNͫ7", "Mr Emre", "Ɏ₳Ⱡ₦łⱫ ₭ɄⱤ₮", "ΞLБЯФ"],
+    "color": "#ff0000"
+  }
+}
