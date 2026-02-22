@@ -1,4 +1,4 @@
-# Starblast.io Ultimate Server Browser 🚀
+# https://Starblast.io Ultimate Server Browser 🚀
 
 [![Live ](https://img.shields.io/badge/-live-brightgreen)](https://starblast1.github.io/Serverlist/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
